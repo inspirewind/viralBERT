@@ -1,0 +1,33 @@
+{
+  "type": "viralbert",
+  "token_to_id": {
+    "[PAD]": 0,
+    "[CLS]": 1,
+    "[SEP]": 2,
+    "[MASK]": 3,
+    "[UNK]": 4,
+    "A": 5,
+    "C": 6,
+    "G": 7,
+    "T": 8,
+    "N": 9,
+    "[M_S]": 10,
+    "[M_B]": 11,
+    "[M_I]": 12,
+    "[M_E]": 13
+  },
+  "standard_bases": [
+    "A",
+    "C",
+    "G",
+    "T"
+  ],
+  "vocab_size": 14,
+  "special_tokens": {
+    "unk_token": "[UNK]",
+    "sep_token": "[SEP]",
+    "pad_token": "[PAD]",
+    "cls_token": "[CLS]",
+    "mask_token": "[MASK]"
+  }
+}

@@ -41,6 +41,7 @@ ENV/
 
 # public release ignore
 data/
+!viralbert/data/
 analysis/
 wandb/
 configs/
